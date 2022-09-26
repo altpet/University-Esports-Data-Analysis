@@ -11,11 +11,15 @@ Some of the tools used are:
 4. Data cleaning and reformatting (MS Excel)
 5. Data Visualisation (Flourish)
 
-Reports:
-This project has a formal report, used for the assignment submission, and a less formal report posted on the NSE blog.
+### Reports:
 
-Data Sets:
+This project has a [formal report](https://github.com/altpet/University-Esports-Data-Analysis/blob/main/Formal_Report.pdf), used for the assignment submission, and an [informal report](https://nse.gg/news/winter-2021-buec-stats-and-graphs) posted on the NSE blog.
 
-The 3 main data sets used  
-BUEC Points Tables - the raw BUEC
-Cleaned BUEC Points Tables
+### Data Sets:
+
+The 3 main data sets used are:
+1. BUEC League Table
+2. BUEC Seeding data
+3. HESA Higher Education Institution Data
+
+Refer to the formal report for more information on these data sets.
