@@ -1,0 +1,98 @@
+Aberystwyth University
+Anglia Ruskin University
+Aston University
+Bangor University
+Bath Spa University
+Birmingham City University
+Bournemouth University
+Brunel University
+Cardiff Metropolitan University
+Cardiff University
+City University Of London
+Coventry University
+De Montfort University
+Durham University
+Edge Hill University
+FXU (Falmouth & Exeter Student's Union)
+Glasgow Caledonian University
+Heriot Watt University
+Imperial College London
+Keele University
+Kings College London
+Kingston University
+Lancaster University
+Leeds Beckett University
+Leeds Conservatoire
+Leeds Trinity University
+Liverpool John Moores University
+London South Bank University
+Loughborough University
+Manchester Metropolitan University
+Middlesex University
+Newcastle University
+Northumbria University
+Nottingham Trent University
+Oxford Brookes University
+Oxford University
+Queen Margaret University
+Queen Mary University Of London
+Queens University Belfast
+Roehampton University
+Royal Holloway University Of London
+School Of Oriental And African Studies
+Sheffield Hallam University
+Southampton Solent University
+Staffordshire University
+Swansea University
+Teesside University
+Ulster University
+University College London
+University Of Abertay Dundee
+University Of Bath
+University Of Bedfordshire
+University Of Birmingham
+University Of Brighton
+University Of Bristol
+University Of Cambridge
+University Of Chichester
+University Of Derby
+University Of Dundee
+University of East Anglia
+University Of Edinburgh
+University Of Essex
+University Of Exeter
+University Of Glasgow
+University Of Gloucestershire
+University of Greenwich
+University Of Hertfordshire
+University Of Huddersfield
+University Of Hull
+University Of Kent
+University Of Leeds
+University Of Leicester
+University Of Lincoln
+University Of Liverpool
+University Of Manchester
+University Of Northampton
+University Of Nottingham
+University Of Plymouth
+University Of Portsmouth
+University Of Reading
+University Of Salford
+University Of Sheffield
+University Of Southampton
+University Of St Andrews
+University Of Stirling
+University Of Strathclyde
+University Of Suffolk
+University Of Sunderland
+University Of Surrey
+University Of Sussex
+University Of The Arts London
+University Of The West Of England
+University Of Warwick
+University Of West London
+University Of Westminster
+University Of Winchester
+University Of York
+York St John University

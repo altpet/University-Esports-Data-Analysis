@@ -1,0 +1,25 @@
+removes empty lines:
+
+sed 's/,,//g' "Team Points Winter 2021.csv"
+
+$ sed '/\S/!d' i_have_blanks_too.txt
+
+sed 's/,,//g' "Team Points Winter 2021.csv" | sed '/\S/!d'
+sed 's/,,//g' "Team Points Winter 2021.csv" | sed '/\S/!d' > temp.csv
+sed 's/,,//g' "Team Points Winter 2021.csv" | sed '/\S/!d' | sort -k3 -t ',' -n -r
+
+do wc before, after
+
+
+sed 's/,,//g' "Team Points Winter 2021.csv" | sed '/\S/!d' | sort -k3 -t ',' -n -r | grep -G ",[1-9][0-9]\{2\}"
+100+ points ^^^
+
+
+sed 's/,,//g' "Team Points Winter 2021.csv" | sed '/\S/!d' | sort -k3 -t ',' -n -r | grep -G ",1[0-9][0-9]" | grep -n -i ",University of Warwick," | cat
+From x uni (ignore case sensitivity is important!)
+
+
+sed 's/,,//g' "Team Points Winter 2021.csv" | sed '/\S/!d' | sort -k3 -t ',' -n -r | grep -G ",1[0-9][0-9]" | grep -n -i ",University of Warwick," | cut -d, -f3 | head
+Points Column
+
+sed 's/,,//g' "Team Points Winter 2021.csv" | sed '/\S/!d' | sort -k3 -t ',' -n -r | grep -n -i ",University of Warwick," | cut -d, -f3 | head

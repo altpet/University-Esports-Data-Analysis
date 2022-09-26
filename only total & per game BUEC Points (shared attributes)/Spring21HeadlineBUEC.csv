@@ -1,0 +1,101 @@
+Rank,University,Total,CS:GO,Dota 2,League of Legends,Overwatch,Rainbow 6,Rocket League,Valorant,Smash,TFT,UFG,Racing
+1,University of Warwick,1362,79,185,336,136,118,370,92,4,10,19,13
+2,University of Southampton,1026,347,92,102,110,7,144,121,67,1,22,13
+3,Lancaster University,934,121,165,151,100,0,134,213,0,0,0,50
+4,University of Portsmouth,811,0,100,58,223,92,187,135,12,4,0,0
+5,University of Exeter,807,72,14,250,108,119,64,40,130,4,0,6
+6,Swansea University,796,103,20,183,0,254,182,24,0,6,0,24
+7,University of Kent,791,200,8,310,13,104,42,88,22,0,0,4
+8,University of Bath,791,230,27,197,23,10,174,42,88,0,0,0
+9,Newcastle University,742,189,9,133,0,155,122,22,98,11,0,3
+10,Staffordshire University,730,160,20,119,0,0,170,13,213,17,1,17
+11,University of The West of England,716,364,0,51,121,0,149,20,0,3,0,8
+12,Durham University,715,104,84,107,68,0,200,1,95,1,0,55
+13,Loughborough University,708,15,0,42,53,140,275,113,0,2,0,68
+14,University of Bristol,690,157,4,130,203,9,133,11,0,43,0,0
+15,University of East Anglia,680,16,0,25,112,16,147,269,89,0,0,6
+16,University of York,677,153,6,57,153,4,166,138,0,0,0,0
+17,University of Lincoln,606,159,12,173,45,80,120,0,0,0,7,10
+18,University of Nottingham,605,46,121,147,42,28,124,0,59,0,18,20
+19,University of Hertfordshire,549,113,23,136,81,0,9,105,0,0,0,82
+20,Cardiff University,527,78,0,116,0,121,80,112,0,11,0,9
+21,University of Surrey,520,127,0,218,28,0,104,28,6,0,3,6
+22,University of Birmingham,509,38,16,67,112,19,168,0,51,29,9,0
+23,University of Cambridge,490,189,11,25,111,8,51,6,0,67,14,8
+24,Royal Holloway University of London,482,0,15,49,96,13,101,88,18,5,0,97
+25,University of Reading,453,64,5,90,52,104,84,23,6,0,25,0
+26,University of Leicester,412,6,24,137,88,64,59,6,2,0,20,6
+27,Bournemouth University,407,161,0,0,56,0,172,0,1,4,0,13
+28,University of Essex,403,84,0,44,25,56,127,60,7,0,0,0
+29,University of Leeds,389,61,68,32,33,15,133,46,0,0,0,1
+30,University of Sussex,377,7,3,99,32,68,126,17,0,0,0,25
+31,Heriot Watt University,376,91,5,46,0,35,116,83,0,0,0,0
+32,University College London,370,0,116,137,72,0,0,0,2,43,0,0
+33,Liverpool John Moores University,359,112,0,0,24,0,94,129,0,0,0,0
+34,Imperial College London,359,98,43,33,0,158,24,0,0,0,0,3
+35,Kings College London,344,123,136,5,16,27,0,0,0,35,2,0
+36,Nottingham Trent University,341,23,6,61,14,76,60,20,0,0,3,78
+37,De Montfort University,332,11,0,176,0,72,69,0,0,0,4,0
+38,FXU (Falmouth & Exeter Student's Union),330,104,0,12,45,0,89,51,0,2,0,27
+39,Keele University,317,11,0,38,0,84,184,0,0,0,0,0
+40,University of Manchester,299,11,0,207,27,0,34,0,0,0,0,20
+41,University of Salford,296,0,0,103,0,0,176,0,17,0,0,0
+42,Coventry University,293,159,0,6,60,3,0,0,6,0,0,59
+43,University of Sheffield,286,140,47,0,8,17,16,0,0,0,0,58
+44,University of Liverpool,283,4,1,0,0,121,157,0,0,0,0,0
+45,Oxford Brookes University,279,20,0,0,0,135,24,100,0,0,0,0
+46,University of Plymouth,274,0,17,162,47,0,40,0,0,0,0,8
+47,London South Bank University,260,0,0,32,2,0,0,10,116,14,0,86
+48,Aston University,240,43,0,140,0,24,0,25,0,8,0,0
+49,Roehampton University,233,0,0,143,0,0,38,49,0,3,0,0
+50,University of Abertay Dundee,230,0,0,189,26,0,7,0,8,0,0,0
+51,Leeds Beckett University,202,0,0,57,0,0,145,0,0,0,0,0
+52,University of Brighton,200,100,0,23,0,0,77,0,0,0,0,0
+53,University of Glasgow,180,0,10,25,110,0,6,0,29,0,0,0
+54,Bangor University,179,18,39,53,13,0,15,27,0,0,0,14
+55,University of Hull,161,0,26,0,10,0,0,76,46,3,0,0
+56,University of Derby,159,21,22,2,28,5,42,39,0,0,0,0
+57,Middlesex University,158,1,0,144,0,0,4,0,0,9,0,0
+58,Queens University Belfast,157,0,0,3,14,53,18,56,13,0,0,0
+59,University of Chichester,151,78,0,27,0,23,0,0,2,0,0,21
+60,Edge Hill University,134,0,0,11,0,15,0,108,0,0,0,0
+61,University of St Andrews,126,11,47,16,52,0,0,0,0,0,0,0
+62,Manchester Metropolitan University,125,43,0,0,0,60,0,22,0,0,0,0
+63,Cardiff Metropolitan University,121,0,0,0,0,0,53,68,0,0,0,0
+64,Aberystwyth University,118,0,0,72,0,0,46,0,0,0,0,0
+65,Sheffield Hallam University,107,0,0,9,0,0,27,71,0,0,0,0
+66,University of Northampton,95,0,0,67,22,0,0,0,6,0,0,0
+67,University Of Gloucestershire,94,94,0,0,0,0,0,0,0,0,0,0
+68,University of Strathclyde,93,45,0,48,0,0,0,0,0,0,0,0
+69,Northumbria University,84,0,0,28,0,6,38,0,12,0,0,0
+70,York St John University,77,10,0,22,37,0,0,0,3,0,0,5
+71,Brunel University,75,9,0,0,0,14,0,4,28,0,0,20
+72,University of the Arts London,66,0,0,66,0,0,0,0,0,0,0,0
+73,London School of Economics,61,0,52,0,0,0,0,0,0,9,0,0
+74,University Of Chester,58,0,0,0,0,0,0,0,58,0,0,0
+75,University of Edinburgh,47,1,0,0,0,0,18,0,0,28,0,0
+76,Glasgow Caledonian University,40,4,0,32,0,4,0,0,0,0,0,0
+77,University Of Central Lancashire,35,0,0,0,0,0,0,0,30,0,0,5
+78,Oxford University,32,0,0,4,0,0,28,0,0,0,0,0
+79,University of Greenwich,32,0,0,0,0,0,0,0,0,0,0,32
+80,Teesside University,27,0,0,0,0,0,0,0,0,27,0,0
+81,University Of Aberdeen,24,0,0,0,24,0,0,0,0,0,0,0
+82,University of Dundee,21,0,0,0,3,0,0,0,0,18,0,0
+83,Robert Gordon University,18,0,0,0,0,0,18,0,0,0,0,0
+84,University of Sunderland,17,0,0,6,0,1,3,0,0,7,0,0
+85,Ulster University,12,0,0,0,12,0,0,0,0,0,0,0
+86,"City, University Of London",12,0,0,0,0,0,0,0,0,0,0,12
+87,Bath Spa University,10,0,0,0,0,0,10,0,0,0,0,0
+88,Birmingham City University,9,0,0,3,6,0,0,0,0,0,0,0
+89,Anglia Ruskin University,7,0,0,0,0,0,0,0,7,0,0,0
+90,Leeds Conservatoire,5,0,0,0,0,0,5,0,0,0,0,0
+91,Wrexham Glyndwr University,4,0,0,0,0,0,0,0,4,0,0,0
+92,University of Winchester,3,0,0,0,0,0,0,0,0,0,0,3
+93,Southampton Solent University,2,0,0,0,0,0,0,0,0,2,0,0
+94,University of Bedfordshire,2,0,0,0,0,0,0,0,2,0,0,0
+95,Queen Margaret University,2,2,0,0,0,0,0,0,0,0,0,0
+96,University Of West London,0,0,0,0,0,0,0,0,0,0,0,0
+97,University of Huddersfield,0,0,0,0,0,0,0,0,0,0,0,0
+98,University of Westminster,0,0,0,0,0,0,0,0,0,0,0,0
+99,School Of Oriental And African Studies,0,0,0,0,0,0,0,0,0,0,0,0
+100,"St George's, University of London",0,0,0,0,0,0,0,0,0,0,0,0

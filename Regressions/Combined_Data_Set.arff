@@ -1,0 +1,123 @@
+@relation Combined_Data_Set
+
+@attribute University {'University of Warwick','Staffordshire University','Loughborough University','University of Southampton','Swansea University','Durham University','University of Birmingham','University of Exeter','University of The West of England','University of Bath','University College London','University of Portsmouth','Nottingham Trent University','University of East Anglia','Kings College London','University of Manchester','University of York','Lancaster University','University of Nottingham','Keele University','Newcastle University','University of Bristol','University of Kent','University of Leeds','Cardiff University','University of Lincoln','University of Reading','University of Sheffield','Royal Holloway University of London','Coventry University','Roehampton University','Imperial College London','Oxford Brookes University','University of Salford','University of Sussex','Bournemouth University','Brunel University','University of Essex','University of Surrey','University of Cambridge','Queens University Belfast','University of Liverpool','Heriot Watt University','Aston University','University of Abertay Dundee','University of Glasgow','University of Chichester','Liverpool John Moores University','University of Leicester','University of Hertfordshire','Manchester Metropolitan University','Birmingham City University',FXU,'Sheffield Hallam University','University of Strathclyde','De Montfort University','Northumbria University','Queen Mary University of London','University of Derby','University of Edinburgh','London South Bank University','University of St Andrews','Teesside University','Bangor University','University of Plymouth','Aberystwyth University','University of Northampton','Glasgow Caledonian University','University of Westminster','Oxford University','University Of Gloucestershire','City University Of London','University of Brighton','University of Stirling','University of Huddersfield','University of the Arts London','York St John University','Middlesex University','Anglia Ruskin University','University of Dundee','University of Hull','Cardiff Metropolitan University','Ulster University','University Of West London','Edge Hill University','University of Sunderland','University of Bedfordshire','Leeds Beckett University','Bath Spa University','University of Winchester','University Of Suffolk','Queen Margaret University','Leeds Conservatoire','Leeds Trinity University','School Of Oriental And African Studies','University of Greenwich','Kingston University'}
+@attribute Rank numeric
+@attribute Total numeric
+@attribute CS:GO numeric
+@attribute 'Dota 2' numeric
+@attribute 'League of Legends' numeric
+@attribute Overwatch numeric
+@attribute 'Rainbow 6' numeric
+@attribute 'Rocket League' numeric
+@attribute Smash numeric
+@attribute Valorant numeric
+@attribute TFT numeric
+@attribute Racing numeric
+@attribute UFG numeric
+@attribute 'Total Students' numeric
+@attribute 'Male Students' numeric
+@attribute 'Female Students' numeric
+@attribute 'First Years' numeric
+@attribute 'Not First Years' numeric
+@attribute Delta numeric
+@attribute 'Relative Delta' string
+@attribute 'Predicted Results' numeric
+
+@data
+'University of Warwick',1,2037,299,177,383,255,186,356,17,272,11,8,73,26825,13915,16765,12680,18005,122.4,0.063485477,1805.6
+'Staffordshire University',2,1365,202,5,103,176,10,119,344,361,4,39,2,15675,335,755,555,545,-217.8,-0.223155738,1193.8
+'Loughborough University',3,1023,31,27,138,64,207,295,25,150,0,86,0,18295,7370,9460,8090,8750,210,0.230263158,702
+'University of Southampton',4,985,383,0,36,90,38,201,60,159,7,0,11,22665,7530,10870,7480,10930,-99.6,-0.109812569,1006.6
+'Swansea University',5,955,233,11,205,19,187,67,24,159,0,6,44,20375,335,755,555,545,127.2,0.144381385,753.8
+'Durham University',6,940,143,76,94,65,104,229,60,116,14,39,0,19520,3450,1375,2740,2085,17.2,0.020798065,809.8
+'University of Birmingham',7,938,127,7,63,92,124,188,111,166,32,0,28,35760,9930,8615,6650,11910,-13.3,-0.017340287,780.3
+'University of Exeter',8,896,49,0,270,58,112,162,103,126,10,6,0,26935,7330,9175,7545,8985,103,0.132561133,674
+'University of The West of England',9,845,205,60,70,112,0,218,59,97,0,7,17,30680,3740,6135,4365,5535,17.2,0.022572178,744.8
+'University of Bath',10,797,96,130,183,18,13,124,89,144,0,0,0,18560,6315,8855,6180,9005,-53,-0.074858757,761
+'University College London',11,788,131,176,207,9,76,0,1,178,10,0,0,41095,335,755,555,545,-36.8,-0.047361647,813.8
+'University of Portsmouth',12,744,80,68,0,170,29,282,10,94,0,11,0,26775,13040,12855,12220,13690,-54,-0.074688797,777
+'Nottingham Trent University',13,739,83,23,102,29,120,266,0,51,0,65,0,35785,680,2110,1395,1400,-127.3,-0.188872404,801.3
+'University of East Anglia',14,731,88,22,62,69,41,253,0,143,0,11,42,18035,5685,10575,6430,9840,-133.8,-0.197345133,811.8
+'Kings College London',15,718,160,41,209,19,20,0,0,247,0,2,20,33110,4360,6510,4515,6365,42.2,0.060632184,653.8
+'University of Manchester',16,706,173,0,208,116,9,60,0,100,8,31,1,40485,13325,16275,11450,18150,53.2,0.07987988,612.8
+'University of York',17,701,164,2,66,134,0,200,0,82,0,46,7,19790,5350,7340,7315,5385,187.2,0.288888889,460.8
+'Lancaster University',18,701,60,116,257,37,0,26,0,151,13,41,0,15665,7740,10255,8405,9665,-76,-0.117465224,723
+'University of Nottingham',19,700,94,90,104,31,28,149,0,146,2,10,46,34840,4550,7510,6000,6060,147,0.228971963,495
+'Keele University',20,685,87,0,136,20,116,222,26,76,0,0,2,10880,11510,7885,8365,11035,136,0.207001522,521
+'Newcastle University',21,677,174,0,134,39,110,43,80,93,0,4,0,28070,8595,11580,9010,11165,35.2,0.059359191,557.8
+'University of Bristol',22,649,123,139,148,114,18,21,13,61,12,0,0,27375,7410,11530,7185,11800,66,0.105769231,558
+'University of Kent',23,648,47,0,104,19,64,163,67,160,0,24,0,18710,8570,10135,7175,11530,-48,-0.086175943,605
+'University of Leeds',24,630,91,47,148,54,173,114,0,3,0,0,0,36330,7680,7950,6600,9065,-147,-0.233333333,777
+'Cardiff University',25,602,139,5,128,50,72,46,0,136,4,22,0,33260,5015,5905,5025,5895,118,0.204861111,458
+'University of Lincoln',26,593,60,17,206,85,56,135,0,28,0,3,3,16425,7440,8740,6490,9690,118,0.201022147,469
+'University of Reading',27,590,18,0,28,104,94,173,20,54,0,52,47,18735,14480,12295,11965,14810,6,0.012738854,465
+'University of Sheffield',28,585,171,114,124,29,26,30,0,86,0,5,0,30055,15670,19080,14845,19995,36.2,0.062413793,543.8
+'Royal Holloway University of London',29,579,112,19,105,112,39,25,0,142,0,22,3,11530,515,705,435,785,69,0.124548736,485
+'Coventry University',30,563,43,0,126,84,53,11,0,109,21,116,0,38430,90,450,335,210,45,0.105633803,381
+'Roehampton University',31,502,28,0,163,127,0,75,0,88,8,13,0,12495,4880,7770,5090,7575,8,0.016632017,473
+'Imperial College London',32,499,155,63,128,0,31,75,16,23,3,0,5,19400,6680,4475,4245,6910,-12.8,-0.026947368,487.8
+'Oxford Brookes University',33,473,13,0,0,28,107,34,2,202,2,75,10,16900,895,1435,905,1455,17,0.044270833,367
+'University of Salford',34,455,0,0,186,0,12,185,60,12,0,0,0,21500,8475,10240,8340,10395,157.5,0.398734177,237.5
+'University of Sussex',35,447,61,6,121,6,0,134,0,106,0,10,3,19395,1335,1410,1310,1445,66,0.152073733,368
+'Bournemouth University',36,434,120,0,6,52,0,178,7,71,0,0,0,17390,455,1820,1040,1245,-60.8,-0.142388759,487.8
+'Brunel University',37,429,90,4,21,0,26,0,93,104,0,59,32,15520,8090,9265,7255,10135,-187,-0.763265306,432
+'University of Essex',38,407,95,0,26,24,10,205,0,39,0,0,8,16530,13525,21765,14965,20410,117.5,0.294486216,281.5
+'University of Surrey',39,386,61,17,142,28,16,68,0,35,0,9,10,16990,1335,1410,1310,1445,23,0.0626703,344
+'University of Cambridge',40,367,102,62,71,65,0,44,1,17,0,5,0,21340,1480,1620,1600,1500,-7.8,-0.021606648,368.8
+'Queens University Belfast',41,353,127,0,0,0,134,56,3,29,4,0,0,24915,9840,11815,10485,11180,-23.6,-0.068208092,369.6
+'University of Liverpool',42,325,4,5,111,4,108,81,0,5,0,0,7,29600,7540,8875,7105,9315,-44,-0.13836478,362
+'Heriot Watt University',43,314,52,1,32,11,53,47,0,118,0,0,0,11155,665,1330,870,1120,-7,-0.022292994,321
+'Aston University',44,309,76,0,90,2,3,26,0,93,0,0,19,15385,9995,16700,12270,14445,-23,-0.079310345,313
+'University of Abertay Dundee',45,299,0,1,46,95,43,4,0,110,0,0,0,4280,200,260,155,310,92,0.307692308,207
+'University of Glasgow',46,284,135,20,29,39,8,26,8,0,0,19,0,32465,12410,14475,11850,15085,-2.8,-0.010894942,259.8
+'University of Chichester',47,269,133,0,14,21,40,0,0,60,0,1,0,5545,10470,14245,11230,13485,157,0.585820896,111
+'Liverpool John Moores University',48,258,36,0,26,0,0,91,0,105,0,0,0,25050,1595,3370,2270,2715,22,0.085271318,236
+'University of Leicester',49,238,0,0,45,6,60,109,2,16,0,0,0,16180,14370,21935,15565,20765,-52,-0.220338983,288
+'University of Hertfordshire',50,227,0,0,85,0,12,29,0,56,0,39,6,25520,12710,19270,15865,16600,-84,-0.461538462,266
+'Manchester Metropolitan University',51,223,65,0,10,14,72,6,0,3,7,0,46,33420,7370,9460,8090,8750,-259,-1.523529412,429
+'Birmingham City University',52,215,15,0,17,31,0,126,0,0,21,1,4,26930,4955,6445,5775,5650,13,0.068783069,176
+FXU,53,212,130,0,5,14,0,24,0,38,0,1,0,6245,6300,7630,6265,7670,51,0.241706161,160
+'Sheffield Hallam University',54,209,36,0,16,0,0,55,30,50,0,2,20,30960,445,440,345,540,41,0.261146497,116
+'University of Strathclyde',55,195,129,3,44,0,0,0,0,0,0,19,0,24330,10285,12735,10550,12540,45,0.255681818,131
+'De Montfort University',56,190,10,0,160,0,2,0,3,6,2,7,0,29000,3450,1375,2740,2085,-132,-0.741573034,310
+'Northumbria University',57,182,0,12,0,56,17,0,0,70,17,0,10,28325,13375,14650,12370,15700,-189,-1.219354839,344
+'Queen Mary University of London',58,181,0,0,103,0,0,11,0,50,16,0,1,21665,1160,3955,2210,2920,-52,-0.317073171,216
+'University of Derby',59,178,3,0,83,26,0,59,0,4,3,0,0,19685,10470,14245,11230,13485,-60,-0.342857143,235
+'University of Edinburgh',60,176,20,0,0,0,84,29,0,43,0,0,0,35375,6545,8805,7895,7460,55,0.3125,121
+'London South Bank University',61,170,0,0,0,0,0,0,54,42,0,74,0,16840,335,755,680,415,-44,-1.047619048,86
+'University of St Andrews',62,160,0,43,63,6,0,0,0,48,0,0,0,10535,7530,10870,7480,10930,9,0.05625,151
+'Teesside University',63,150,4,0,0,10,2,75,1,29,0,0,29,19290,335,755,555,545,39,0.325,81
+'Bangor University',64,149,21,0,25,17,16,32,13,22,0,0,3,9945,8000,7385,5730,9655,26,0.195488722,107
+'University of Plymouth',65,147,0,0,49,52,0,3,10,33,0,0,0,18410,4550,7510,6000,6060,14,0.102189781,123
+'Aberystwyth University',66,137,20,0,9,0,17,5,1,83,2,0,0,7720,2220,2060,1565,2715,-23,-0.171641791,157
+'University of Northampton',67,121,28,0,9,14,0,15,18,35,0,0,2,12060,18135,22350,17670,22815,69,0.683168317,32
+'Glasgow Caledonian University',68,116,33,0,0,33,21,0,0,25,0,0,4,17540,2545,3635,2475,3770,21,0.1875,91
+'University of Westminster',69,116,7,0,2,10,0,0,20,26,6,0,45,19470,13915,16765,12680,18005,-18,-0.4,63
+'Oxford University',70,110,0,0,30,3,0,10,21,28,11,0,7,25910,895,1435,905,1455,13,0.183098592,58
+'University Of Gloucestershire',71,95,92,0,0,0,0,0,3,0,0,0,0,7915,12410,14475,11850,15085,-61.8,-0.67173913,153.8
+'City University Of London',72,89,68,0,0,0,0,0,13,6,0,2,0,19975,13530,19680,16225,17035,50,0.675675676,24
+'University of Brighton',73,88,0,0,30,0,25,12,0,0,0,0,21,18985,4225,5545,4160,5605,-101,-1.507462687,168
+'University of Stirling',74,74,0,0,2,0,0,0,0,72,0,0,0,12540,10285,12735,10550,12540,54,0.72972973,20
+'University of Huddersfield',75,72,72,0,0,0,0,0,0,0,0,0,0,17305,8630,11185,9585,10240,71,0.986111111,1
+'University of the Arts London',76,69,0,0,69,0,0,0,0,0,0,0,0,19965,4035,5530,4935,4625,0,0,69
+'York St John University',77,59,0,0,5,16,0,26,12,0,0,0,0,7000,0,0,0,0,25,0.531914894,22
+'Middlesex University',78,49,0,0,0,0,0,0,0,49,0,0,0,20175,10795,7500,7015,11280,-56,-1.142857143,105
+'Anglia Ruskin University',79,48,0,0,0,0,29,19,0,0,0,0,0,26715,380,335,285,430,11,0.229166667,37
+'University of Dundee',80,48,0,0,5,40,0,0,0,0,0,0,3,16270,2125,3415,2600,2945,10,0.222222222,35
+'University of Hull',81,45,0,0,0,13,0,0,0,5,2,0,25,14255,7285,9990,7685,9620,-21,-1.166666667,39
+'Cardiff Metropolitan University',82,43,0,0,0,0,0,0,0,42,0,0,1,10920,4125,9210,5950,7390,13,0.30952381,29
+'Ulster University',83,43,0,0,0,5,0,0,0,31,0,0,7,27680,335,755,555,545,-4,-0.111111111,40
+'University Of West London',84,43,18,0,0,0,3,0,4,18,0,0,0,11985,13915,16765,12680,18005,-11,-0.282051282,50
+'Edge Hill University',85,41,0,0,6,0,15,9,0,0,0,11,0,13560,13100,15855,12455,16545,-81,-2.7,111
+'University of Sunderland',86,31,0,0,16,0,15,0,0,0,0,0,0,15740,1335,1410,1310,1445,23,0.741935484,8
+'University of Bedfordshire',87,15,0,0,0,2,0,0,1,5,0,0,7,16725,6315,8855,6180,9005,6,0.857142857,1
+'Leeds Beckett University',88,12,0,0,0,4,0,8,0,0,0,0,0,23290,510,1630,880,1265,-63,-5.25,75
+'Bath Spa University',89,11,0,0,0,0,0,0,0,11,0,0,0,8450,3925,6025,4275,5670,0,0,11
+'University of Winchester',90,11,0,0,0,0,0,4,0,0,0,0,7,8000,13915,16765,12680,18005,-6,-1.5,10
+'University Of Suffolk',91,10,0,0,0,0,0,0,0,10,0,0,0,9565,1335,1410,1310,1445,10,1,0
+'Queen Margaret University',92,8,0,0,8,0,0,0,0,0,0,0,0,5130,355,955,465,840,3,0.375,5
+'Leeds Conservatoire',93,6,4,0,0,1,0,0,1,0,0,0,0,1300,10400,12890,9750,13545,5,1,0
+'Leeds Trinity University',94,6,0,0,0,0,0,0,0,6,0,0,0,4985,870,430,585,715,4,0.666666667,2
+'School Of Oriental And African Studies',95,5,0,0,0,0,0,0,0,0,0,0,5,5795,4935,6595,5210,6320,0,n/a,0
+'University of Greenwich',96,5,0,0,0,0,0,0,0,0,0,5,0,19825,12710,19270,15865,16600,0,n/a,0
+'Kingston University',97,1,0,0,0,0,0,0,1,0,0,0,0,18070,11715,20825,16870,16240,-12,n/a,12
